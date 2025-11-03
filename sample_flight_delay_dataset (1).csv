@@ -1,0 +1,11 @@
+FlightID,Airline,Origin,Destination,Date,Scheduled_Departure,Actual_Departure,Delay_Minutes,Weather
+AI101,Air India,DEL,BOM,05/01/25,8:00,8:45,45,Clear
+AI102,Air India,BOM,DEL,06/01/25,9:30,9:40,10,Clear
+6.00E+203,IndiGo,DEL,BLR,07/01/25,7:45,8:10,25,Fog
+UK450,Vistara,BLR,DEL,08/01/25,18:00,18:30,30,Rain
+SG301,SpiceJet,HYD,BOM,09/01/25,20:30,21:00,30,Clear
+AI103,Air India,DEL,BLR,10/02/25,6:00,6:20,20,Fog
+6.00E+204,IndiGo,BOM,DEL,11/02/25,10:15,10:45,30,Rain
+UK451,Vistara,BLR,HYD,12/02/25,19:00,19:10,10,Clear
+SG302,SpiceJet,HYD,DEL,13/02/25,21:15,22:00,45,Storm
+AI104,Air India,DEL,BLR,14/02/25,5:30,5:35,5,Clear
